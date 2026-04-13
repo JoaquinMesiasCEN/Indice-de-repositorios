@@ -2,7 +2,7 @@
 
 ### 🔍 Explora y filtra tus códigos de forma dinámica
 
-Este dashboard ha sido diseñado para centralizar el acceso a tus repositorios, permitiendo localizar scripts y funciones mediante un sistema de filtrado inteligente por categorías.
+Este dashboard ha sido diseñado para centralizar el acceso a mis repositorios, permitiendo localizar scripts y funciones mediante un sistema de filtrado inteligente por categorías.
 
 ---
 
