@@ -7,9 +7,8 @@ st.title("📂 Dashboard de Proyectos")
 
 # 2. Tus datos (Esto podrías cargarlo de un CSV externo)
 data = [
-    {"Nombre": "Limpieza de Datos", "Tag": "Data Science", "Link": "https://github.com/..."},
-    {"Nombre": "Script de Scraping", "Tag": "Python", "Link": "https://github.com/..."},
-    {"Nombre": "Dashboard Ventas", "Tag": "Visualización", "Link": "https://github.com/..."},
+    {"Nombre": "Evaluador de CPF", "Tag": "CPF,Python", "Link": "https://github.com/JoaquinMesiasCEN/Evaluador-de-CPF"},
+    {"Nombre": "Buscador de Panños", "Tag": "Infotecnica,Python", "Link": "https://github.com/JoaquinMesiasCEN/Buscar-Panios-Lineas"},
 ]
 df = pd.DataFrame(data)
 
